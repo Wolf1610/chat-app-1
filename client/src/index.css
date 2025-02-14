@@ -1,0 +1,15 @@
+
+@import "tailwindcss";
+
+@theme {
+  --color-gray-0.2: #F8F4EB;
+}
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "DM Sans", sans-serif;
+}
